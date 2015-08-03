@@ -1,5 +1,6 @@
 output
 .DS_Store
+.idea
 
 # build artifacts
 progit.html
